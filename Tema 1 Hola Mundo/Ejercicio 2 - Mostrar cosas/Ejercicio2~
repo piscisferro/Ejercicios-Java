@@ -1,0 +1,15 @@
+/**
+ * Muestra por pantalla la frase "¡Hola mundo!"
+ *
+ * @author Luis J. Sánchez
+ */
+
+public class Ejercicio2 { // Clase principal
+  public static void main(String[] args) {
+    System.out.println("Juan José Fernández Romero");
+    System.out.println("677890793");
+    System.out.println("Calle Israel Nº 23");
+  }
+}
+
+

@@ -1,0 +1,3 @@
+Formula aleatorios maximo y minimo:
+
+Math.random() * (maximo - minimo) + minimo
